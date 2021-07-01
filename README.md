@@ -1,6 +1,6 @@
 ### Yo, I'm Noky.
 
-[<img alt = "Discord Stats" src = "https://discord.c99.nl/widget/theme-1/753653005701611661.png")](https://www.discord.gg/equipage)
+[<img alt = "Discord Stats" src = "https://discord.c99.nl/widget/theme-1/753653005701611661.png">](https://www.discord.gg/equipage)
 
 ## Stats.
 
