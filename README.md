@@ -4,7 +4,7 @@
 
 ## Stats.
 
-[NO-KY's github stats](https://github-readme-stats.vercel.app/api?username=NO-KY&show_icons=true&theme=midnight-purple&count_private=false)
+[![NO-KY's github stats](https://github-readme-stats.vercel.app/api?username=NO-KY&show_icons=true&theme=midnight-purple&count_private=false)](https://github.com/NO-KY)]
 
 ## Languages.
 
