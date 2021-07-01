@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://discord.c99.nl/widget/theme-3/753653005701611661.png
+
 <!--
 **NO-KY/NO-KY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
