@@ -1,6 +1,6 @@
 ### Yo, I'm NOKY.
 
-[<img alt = "Discord Stats" src = "https://discord.c99.nl/widget/theme-1/753653005701611661.png">](https://www.discord.gg/equipage)
+[<img alt = "Discord Stats" src = "https://discord.c99.nl/widget/theme-1/753653005701611661.png">](https://www.discord.gg/geFX6ZvuGC)
 
 ## Stats.
 
@@ -16,8 +16,8 @@
 
 ## My Works.
 
-- ZeerBot : [Discord Bots](https://discord.bots.gg/bots/810613608509472819) [Invite](https://discord.com/api/oauth2/authorize?client_id=810613608509472819&permissions=8&scope=bot)
+- ZeerBot : En développement...
 
 ### Contact me on:
 
-[<img width = "50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="Discord"/>](https://discord.gg/equipage)
+[<img width = "50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="Discord"/>](https://discord.gg/geFX6ZvuGC)
