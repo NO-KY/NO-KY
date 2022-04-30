@@ -1,5 +1,7 @@
 ### Yo, I'm NOKY.
 
+[<img alt = "Discord Stats" src = "https://discord.c99.nl/widget/theme-2/753653005701611661.png](https://www.discord.gg/geFX6ZvuGC)
+
 ## Stats.
 
 [![NO-KY's github stats](https://github-readme-stats.vercel.app/api?username=NO-KY&show_icons=true&theme=midnight-purple&count_private=false)](https://github.com/NO-KY)]
@@ -15,6 +17,9 @@
 ## My Works.
 
 - ZeerBot : En développement...
+- Brigade Tools : Private Brigade Fantôme (Discord Server) Bot, Discord link : https://discord.gg/geFX6ZvuGC
+- Brigade Profil : Private Brigade Fantôme (Discord Server) Bot, Discord link : https://discord.gg/geFX6ZvuGC
+- Brigade Radio : Radio Discord bot, [Invite link](https://discord.com/api/oauth2/authorize?client_id=859644153461997608&permissions=2213865792&scope=bot) • [Support](https://discord.gg/geFX6ZvuGC)
 
 ### Contact me on:
 
