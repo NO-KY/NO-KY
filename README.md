@@ -1,7 +1,6 @@
 ### Yo, I'm NOKY.
 
-[<img alt = "Discord Stats" src = "https://discord.c99.nl/widget/theme-1/753653005701611661.png%22%3E](https://www.discord.gg/equipage)
-
+![Cover](https://discord.c99.nl/widget/theme-2/753653005701611661.png)
 ## Stats :
 
 [![NO-KY's github stats](https://github-readme-stats.vercel.app/api?username=NO-KY&show_icons=true&theme=midnight-purple&count_private=false)](https://github.com/NO-KY)]
