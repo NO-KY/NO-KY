@@ -17,9 +17,9 @@
 ## My Works.
 
 - ZeerBot : En développement...
-- Brigade Tools : Private Brigade Fantôme (Discord Server) Bot. [Discord Server link](https://discord.gg/geFX6ZvuGC)
-- Brigade Profil : Private Brigade Fantôme (Discord Server) Bot. [Discord Server link](https://discord.gg/geFX6ZvuGC)
-- Brigade Radio : Radio Discord bot, [Invite link](https://discord.com/api/oauth2/authorize?client_id=859644153461997608&permissions=2213865792&scope=bot) • [Support](https://discord.gg/geFX6ZvuGC)
+- Brigade Tools : Private Brigade Fantôme (Discord Server) Bot. [[Discord Server link](https://discord.gg/geFX6ZvuGC)]
+- Brigade Profil : Private Brigade Fantôme (Discord Server) Bot. [[Discord Server link](https://discord.gg/geFX6ZvuGC)]
+- Brigade Radio : Radio Discord Bot. [[Invite link](https://discord.com/api/oauth2/authorize?client_id=859644153461997608&permissions=2213865792&scope=bot)] • [[Support](https://discord.gg/geFX6ZvuGC)]
 
 ### Contact me on:
 
