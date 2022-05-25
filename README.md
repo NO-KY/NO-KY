@@ -1,4 +1,4 @@
-### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm NOKY.
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm NOKY.
 
 ![Cover](https://discord.c99.nl/widget/theme-2/753653005701611661.png)
 ## Stats :
