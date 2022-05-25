@@ -1,4 +1,4 @@
-### Yo, I'm NOKY.
+###  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm NOKY.
 
 ![Cover](https://discord.c99.nl/widget/theme-2/753653005701611661.png)
 ## Stats :
@@ -23,3 +23,5 @@
 ### Contact me on :
 
 [<img width = "50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="Discord"/>](https://discord.gg/geFX6ZvuGC)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NO-KY&label=Profile%20views&color=0e75b6&style=flat" alt="NO-KY" /> </p>
