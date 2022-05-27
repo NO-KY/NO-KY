@@ -23,6 +23,7 @@
 ### 📚 My Works :
 
 - ZeerBot : En développement...
+- BrigadeStreaming : Site de Streaming en développement...
 - Brigade Tools : Private [Brigade Fantôme](https://discord.gg/geFX6ZvuGC) Bot.
 - Brigade Profil : Private [Brigade Fantôme](https://discord.gg/geFX6ZvuGC) Bot.
 - Brigade Radio : Radio Discord Bot. [[Invite link](https://discord.com/api/oauth2/authorize?client_id=859644153461997608&permissions=2213865792&scope=bot)] • [[Support](https://discord.gg/geFX6ZvuGC)]
