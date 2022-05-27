@@ -15,6 +15,10 @@
 ### 📌 Languages :
 
 <p>
+    	<a href="http://www.open-std.org/jtc1/sc22/wg14/"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?logo=JavaScript&logoColor=white" /></a>
+	<a href="https://www.w3.org/TR/2017/REC-html52-20171214/"><img alt="Html5" src = "https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"/></a>
+	<a href="https://www.w3.org/TR/CSS/#css"><img alt="css" src="https://img.shields.io/badge/-CSS-00A6FF?logo=css3&logoColor=white" /></a>
+<p>
     <a href="http://www.open-std.org/jtc1/sc22/wg14/%22%3E<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?logo=JavaScript&logoColor=white" /></a>
 </p>
 
