@@ -34,12 +34,18 @@
 
 ### ✨ Contact me on :
 
-[<img width = "50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="Discord"/>](https://discord.gg/geFX6ZvuGC)
+<p>
+    	<a href="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png"><img alt="JavaScript" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" /></a>
+	<a href="https://www.youtube.com/channel/UC5E77mAS0LnlnVXU_aIAhoA"><img alt="NOKY" src = "https://img.shields.io/youtube/channel/subscribers/UC5E77mAS0LnlnVXU_aIAhoA?style=social"/></a>
+	<a href="https://twitter.com/NOKYOUTUBE"><img alt="css" src="https://img.shields.io/twitter/follow/NOKYOUTUBE?logo=twitter&style=for-the-badge" alt="NOKYOUTUBE" /></a>
+<p>
+
+[<img width = "50px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="Discord"/>](c)
 
 <p style="margin-top: 50px;">
  </p>
     <p align="left">
-        <a href="https://www.youtube.com/channel/UC5E77mAS0LnlnVXU_aIAhoA" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC5E77mAS0LnlnVXU_aIAhoA?style=social" alt="code__oz" /></a>
+        <a href="https://www.youtube.com/channel/UC5E77mAS0LnlnVXU_aIAhoA" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC5E77mAS0LnlnVXU_aIAhoA?style=social" alt="NOKY" /></a>
     </p>                         
     <p align="left">
         <a href="https://twitter.com/NOKYOUTUBE" target="blank"><img src="https://img.shields.io/twitter/follow/NOKYOUTUBE?logo=twitter&style=for-the-badge" alt="NOKYOUTUBE" /></a>
