@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://komarev.com/ghpvc/?username=NO-KY&label=Profile%20views&color=0e75b6&style=flat" alt="NO-KY" /> </h1>
 
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">, I'm NOKY.</h1>
+<h1 align="center">Hi <img width="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">, I'm NOKY.</h1>
 
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=EBD41B&center=true&vCenter=true&lines=Brigade+Fant%C3%B4me+%F0%9F%95%B7%EF%B8%8F;ZeerBot+%F0%9F%A4%96;Beginner+Developer+%F0%9F%92%BB">
