@@ -6,7 +6,7 @@
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=EBD41B&center=true&vCenter=true&lines=Brigade+Fant%C3%B4me+%F0%9F%95%B7%EF%B8%8F;ZeerBot+%F0%9F%A4%96;Beginner+Developer+%F0%9F%92%BB">
     
-<h1 align="center"><img src="https://discord.c99.nl/widget/theme-2/753653005701611661.png"> </h1>
+<h1 align="center"> <img src="https://discord.c99.nl/widget/theme-2/753653005701611661.png"> </h1>
 
 ### 📊 Stats :
 
