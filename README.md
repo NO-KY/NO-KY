@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img width="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">, I'm NOKY.</h1>
 
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=EBD41B&center=true&vCenter=true&lines=Brigade+Fant%C3%B4me+%F0%9F%95%B7%EF%B8%8F;ZeerBot+%F0%9F%A4%96;Beginner+Developer+%F0%9F%92%BB">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F7BD18&background=FF1B1B00&center=true&vCenter=true&width=435&lines=Beginner+Developer+%F0%9F%92%BB;Leader+Azarov+%F0%9F%90%A7;ZeerBot+%F0%9F%A4%96">
     
 <h1 align="center"> <img src="https://discord.c99.nl/widget/theme-2/753653005701611661.png"> </h1>
 
@@ -26,11 +26,12 @@
 
 ### 📚 My Works :
 
-- ZeerBot : Discord Bot in development...
-- BrigadeStreaming : Streaming website in development...
-- Brigade Tools : Private [Brigade Fantôme](https://discord.gg/geFX6ZvuGC) Bot.
-- Brigade Profil : Private [Brigade Fantôme](https://discord.gg/geFX6ZvuGC) Bot.
-- Brigade Radio : Radio Discord Bot. [[Invite link](https://discord.com/api/oauth2/authorize?client_id=859644153461997608&permissions=2213865792&scope=bot)] • [[Support](https://discord.gg/geFX6ZvuGC)]
+- `ZeerBot` : *multifunctional discord bot in development...* [[Support](https://discord.gg/v6CdFJwW9f)]
+- `Zone Delta - Modération` : *discord bot for the moderation of the Zone Delta partner discord* [Discord](https://discord.gg/zonedelta)
+- `AzaRadio` : *radio discord bot.* [[Invite link](https://discord.com/api/oauth2/authorize?client_id=859644153461997608&permissions=2213865792&scope=bot)] • [[Support](https://discord.gg/geFX6ZvuGC)]
+- `AzaTools` : *private [QG Azarov](https://discord.gg/geFX6ZvuGC) bot.*
+- `AzaProfil` : *private [QG Azarov](https://discord.gg/geFX6ZvuGC) bot.*
+- ~~BrigadeStreaming : *streaming website in development...*~~ (stopped project)
 
 ### ✨ Contact me on :
 
