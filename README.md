@@ -26,12 +26,14 @@
 
 ### 📚 My Works :
 
-- `ZeerBot` : *multifunctional discord bot in development...* [[Support](https://discord.gg/v6CdFJwW9f)]
-- `Zone Delta - Modération` : *discord bot for the moderation of the Zone Delta partner discord* [Discord](https://discord.gg/zonedelta)
-- `AzaRadio` : *radio discord bot.* [[Invite link](https://discord.com/api/oauth2/authorize?client_id=859644153461997608&permissions=2213865792&scope=bot)] • [[Support](https://discord.gg/geFX6ZvuGC)]
-- `AzaTools` : *private [QG Azarov](https://discord.gg/geFX6ZvuGC) bot.*
-- `AzaProfil` : *private [QG Azarov](https://discord.gg/geFX6ZvuGC) bot.*
-- ~~BrigadeStreaming : *streaming website in development...*~~ (stopped project)
+- ~~`ZeerBot` : *multifunctional discord bot in development...* [[Support](https://discord.gg/v6CdFJwW9f)]~~
+- ~~`Zone Delta - Modération` : *discord bot for the moderation of the Zone Delta partner discord* [Discord](https://discord.gg/zonedelta)~~
+- ~~`AzaRadio` : *radio discord bot.* [[Invite link](https://discord.com/api/oauth2/authorize?client_id=859644153461997608&permissions=2213865792&scope=bot)] • [[Support](https://discord.gg/geFX6ZvuGC)]~~
+- ~~`AzaTools` : *private [QG Azarov](https://discord.gg/geFX6ZvuGC) bot.*~~
+- ~~`AzaProfil` : *private [QG Azarov](https://discord.gg/geFX6ZvuGC) bot.*~~
+- ~~BrigadeStreaming : *streaming website in development...*~~
+
+  (stopped all projects)
 
 ### ✨ Contact me on :
 
