@@ -4,9 +4,9 @@
 <h1 align="center">Hi <img width="25px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">, I'm NOKY.</h1>
 
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F7BD18&background=FF1B1B00&center=true&vCenter=true&width=435&lines=Beginner+Developer+%F0%9F%92%BB;Leader+Azarov+%F0%9F%90%A7;ZeerBot+%F0%9F%A4%96">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F7BD18&background=FF1B1B00&center=true&vCenter=true&width=435&lines=Beginner+Developer+%F0%9F%92%BB;...+...+%F0%9F%90%A7;ZeerBot+%F0%9F%A4%96">
     
-<h1 align="center"> <img src="https://discord.c99.nl/widget/theme-2/753653005701611661.png"> </h1>
+<h1 align="center"> <img src="https://discord.c99.nl/widget/theme-3/1110605071277895750.png"> </h1>
 
 ### 📊 Stats :
 
