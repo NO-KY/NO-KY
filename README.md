@@ -38,7 +38,7 @@
 ### ✨ Contact me on :
 
 <p>
-    	<a href="https://discord.com/invite/geFX6ZvuGC"><img width = "50px" alt="Discord" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" /></a>
+    	<a href="https://discord.gg/qQa5aKks7T"><img width = "50px" alt="Discord" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" /></a>
 	<a href="https://www.youtube.com/channel/UC5E77mAS0LnlnVXU_aIAhoA"><img alt="YouTube" src = "https://img.shields.io/youtube/channel/subscribers/UC5E77mAS0LnlnVXU_aIAhoA?style=social"/></a>
-	<a href="https://twitter.com/NOKYOUTUBE"><img alt="Twitter" src="https://img.shields.io/twitter/follow/NOKYOUTUBE?logo=twitter&style=for-the-badge" /></a>
+	<a href="https://x.com/xNOKYYY"><img alt="Twitter" src="https://img.shields.io/twitter/follow/NOKYOUTUBE?logo=twitter&style=for-the-badge" /></a>
 <p>
