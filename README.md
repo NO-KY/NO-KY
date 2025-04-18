@@ -26,11 +26,11 @@
 
 ### 📚 My Works :
 
-- ~~`ZeerBot` : *multifunctional discord bot in development...* [[Support](https://discord.gg/v6CdFJwW9f)]~~
+- ~~`ZeerBot` : *multifunctional discord bot in development...* [[Support](https://discord.gg/]~~
 - ~~`Zone Delta - Modération` : *discord bot for the moderation of the Zone Delta partner discord* [Discord](https://discord.gg/zonedelta)~~
-- ~~`AzaRadio` : *radio discord bot.* [[Invite link](https://discord.com/api/oauth2/authorize?client_id=859644153461997608&permissions=2213865792&scope=bot)] • [[Support](https://discord.gg/geFX6ZvuGC)]~~
-- ~~`AzaTools` : *private [QG Azarov](https://discord.gg/geFX6ZvuGC) bot.*~~
-- ~~`AzaProfil` : *private [QG Azarov](https://discord.gg/geFX6ZvuGC) bot.*~~
+- ~~`AzaRadio` : *radio discord bot.* [[Invite link](https://discord.com/)] • [[Support](https://discord.gg/)]~~
+- ~~`AzaTools` : *private [QG Azarov](https://discord.gg/) bot.*~~
+- ~~`AzaProfil` : *private [QG Azarov](https://discord.gg/) bot.*~~
 - ~~BrigadeStreaming : *streaming website in development...*~~
 
   (stopped all projects)
