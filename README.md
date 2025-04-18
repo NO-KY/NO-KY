@@ -26,7 +26,7 @@
 
 ### 📚 My Works :
 
-- ~~`ZeerBot` : *multifunctional discord bot in development...* [[Support](https://discord.gg/]~~
+- ~~`ZeerBot` : *multifunctional discord bot in development...* [[Support](https://discord.gg/)]~~
 - ~~`Zone Delta - Modération` : *discord bot for the moderation of the Zone Delta partner discord* [Discord](https://discord.gg/zonedelta)~~
 - ~~`AzaRadio` : *radio discord bot.* [[Invite link](https://discord.com/)] • [[Support](https://discord.gg/)]~~
 - ~~`AzaTools` : *private [QG Azarov](https://discord.gg/) bot.*~~
